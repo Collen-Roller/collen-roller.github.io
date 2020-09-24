@@ -1,4 +1,9 @@
 <div id="animation" style="color: green">
+
+
+Hello, thanks for swinging by!
+
+<div id="animation" style="color: green">
 </div>
 <script type="text/javascript">
   const movingString = "Welcome To My Website"
@@ -15,8 +20,6 @@
   }, 50)
 </script>
   
-
-Hello, thanks for swinging by!
 
 ### A bit on me
 
