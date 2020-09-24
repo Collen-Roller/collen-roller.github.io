@@ -2,24 +2,24 @@ Hello, thanks for swinging by!
 
 ### A bit on me
 
-<div id="animation" style="color: green">
-</div>
-<script type="text/javascript">
-  const movingString = "Collen"
-  const distance = 20
-  let spaces = 0
-  let step = 1
-  const animationElement = document.getElementById("animation")
-  setInterval(() => {
-    animationElement.innerHTML = "[" + "&nbsp;".repeat(spaces) + movingString + "&nbsp;".repeat(distance - spaces - movingString.length) + "]"
-    spaces += step
-    if (spaces === 0 || (spaces + movingString.length) === distance) {
-      step = -step
-    }
-  }, 50)
-</script>
-
-<p>\n</p>
+<p>
+  <div id="animation" style="color: green">
+  </div>
+  <script type="text/javascript">
+    const movingString = "Collen"
+    const distance = 20
+    let spaces = 0
+    let step = 1
+    const animationElement = document.getElementById("animation")
+    setInterval(() => {
+      animationElement.innerHTML = "[" + "&nbsp;".repeat(spaces) + movingString + "&nbsp;".repeat(distance - spaces - movingString.length) + "]"
+      spaces += step
+      if (spaces === 0 || (spaces + movingString.length) === distance) {
+        step = -step
+      }
+    }, 50)
+  </script>
+</p>
 
 If you're here it's likely to checkout my portfolio of things I've worked on. If you want to see my papers, head to the bottom, I normally update it when I can. 
 
