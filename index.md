@@ -32,8 +32,7 @@ A simple way of generating a domain.yml file for the Rasa conversational AI fram
 
 A IOS iPad television control application used by The Standard Athens hotels. I developed the full-stack application and published it in mid-2020
 
-https://fnd.io/#/us/ipad-app/1518858229-anc-control-by-michael-manno
-
+[Checkout the App](https://fnd.io/#/us/ipad-app/1518858229-anc-control-by-michael-manno)
 
 I enjoy full-stack Swift development so if you're looking for a quote, please reachout
 
@@ -41,7 +40,7 @@ I enjoy full-stack Swift development so if you're looking for a quote, please re
 
 In my spare time, sometime I like making music and posting it. I like making videos so more recently I've been posting covers of songs to YouTube. 
 
-- https://www.youtube.com/channel/UCeEBY1M93NGi7BdPho9Z8IQ
+[My Youtube Page - The Gear Stop](https://www.youtube.com/channel/UCeEBY1M93NGi7BdPho9Z8IQ)
 
 I've been playing guitar, keys, and a variety of other instruments for the better part of 15 years now. I'm in two bands currently and I have some music I produced with friends back in high-school that people still enjoy.
 
