@@ -31,11 +31,13 @@ If you're here it's likely to checkout my portfolio of things I've worked on. If
 
 ### code
 
-I like to code - Moral of the story like most engineers - I love solving puzzles in my free time. I'm a full stack developer, that means I do everything from requirement gathering, design, development, transition, and sustainment. Here's some of the open projects I've worked on.
+I like to code - Moral of the story like most engineers - I love solving puzzles in my free time. I'm a full stack developer, that means I do everything from requirement gathering and design to development, transition, and sustainment. Here's my primary languages and tools I use.
 
 Languages: Python, Swift, Java, JS, C++, Bash
 
 Tools: Docker, AWS, Solr, Mongo, Postgres, SQL, JIRA, Kubernetes, Sketch, Figma
+
+Here's some of the open projects I've worked on.
 
 #### flydenity - [Checkout the Code](https://github.com/Collen-Roller/flydenity)
 
