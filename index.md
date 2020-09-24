@@ -1,10 +1,12 @@
 Hello, thanks for swinging by!
 
-<div id="animation" style="color: purple">
+### A bit on me
+
+<div id="animation" style="color: green">
 </div>
 <script type="text/javascript">
   const movingString = "Collen"
-  const distance = 10
+  const distance = 20
   let spaces = 0
   let step = 1
   const animationElement = document.getElementById("animation")
@@ -16,8 +18,6 @@ Hello, thanks for swinging by!
     }
   }, 50)
 </script>
-
-### A bit on me
 
 If you're here it's likely to checkout my portfolio of things I've worked on. If you want to see my papers, head to the bottom, I normally update it when I can. 
 
