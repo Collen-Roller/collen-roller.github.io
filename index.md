@@ -38,7 +38,7 @@ I enjoy full-stack Swift / Python development so if you're looking for a develop
 
 In my spare time, sometime I like making music and posting it. I like making videos so more recently I've been posting covers of songs to YouTube. 
 
-[My Youtube Page - The Gear Stop](https://www.youtube.com/channel/UCeEBY1M93NGi7BdPho9Z8IQ)
+[The Gear Stop](https://www.youtube.com/channel/UCeEBY1M93NGi7BdPho9Z8IQ)
 
 I've been playing guitar, keys, and a variety of other instruments for the better part of 15 years now. I'm in two bands currently and I have some music I produced with friends back in high-school that people still enjoy.
 
