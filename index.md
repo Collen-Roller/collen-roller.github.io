@@ -1,6 +1,3 @@
-<div id="animation" style="color: green">
-
-
 Hello, thanks for swinging by!
 
 <div id="animation" style="color: green">
