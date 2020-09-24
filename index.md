@@ -1,6 +1,6 @@
 Hello, thanks for swinging by!
 
-### A bit on me
+### a bit on me
 
 <p>
   <div id="animation" style="color: green">
@@ -37,15 +37,15 @@ Languages: Python, Swift, Java, JS, C++, Bash
 
 Tools: Docker, AWS, Solr, Mongo, Postgres, SQL, JIRA, Kubernetes, Sketch, Figma
 
-#### Flydenity - [Checkout the Code](https://github.com/Collen-Roller/flydenity)
+#### flydenity - [Checkout the Code](https://github.com/Collen-Roller/flydenity)
 
 Flydenity is a callsign identification library to help match tail numbers or callsigns to origin nations. The library is a python wrapper on top of a curated dataset containing a set of regular expressions generated from the International Telecommunications Union (ITU) International Call Sign prefixes. The registration codes in this dataset are separated by country post The Paris Convention in 1929. The database also contains a description of each codeset with 2 and 3 letter ISO country codes following the ISO-3166 standard.
 
-#### Rasa Denerator - [Checkout the Code](https://github.com/Collen-Roller/Rasa-Denerator)
+#### rasa denerator - [Checkout the Code](https://github.com/Collen-Roller/Rasa-Denerator)
 
 A simple way of generating a domain.yml file for the Rasa conversational AI framework
 
-#### ANC Control - [Checkout the App](https://fnd.io/#/us/ipad-app/1518858229-anc-control-by-michael-manno)
+#### anc control - [Checkout the App](https://fnd.io/#/us/ipad-app/1518858229-anc-control-by-michael-manno)
 
 A IOS iPad television control application used by The Standard Athens hotels. I developed the full-stack application and published it in mid-2020
 
