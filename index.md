@@ -1,21 +1,21 @@
 Hello, thanks for swinging by!
 
-<div id="animation" style="color: green">
-    </div>
-    <script type="text/javascript">
-      const movingString = "Jack"
-      const distance = 10
-      let spaces = 0
-      let step = 1
-      const animationElement = document.getElementById("animation")
-      setInterval(() => {
-        animationElement.innerHTML = "[" + "&nbsp;".repeat(spaces) + movingString + "&nbsp;".repeat(distance - spaces - movingString.length) + "]"
-        spaces += step
-        if (spaces === 0 || (spaces + movingString.length) === distance) {
-          step = -step
-        }
-      }, 50)
-    </script>
+<div id="animation" style="color: purple">
+</div>
+<script type="text/javascript">
+  const movingString = "Collen"
+  const distance = 10
+  let spaces = 0
+  let step = 1
+  const animationElement = document.getElementById("animation")
+  setInterval(() => {
+    animationElement.innerHTML = "[" + "&nbsp;".repeat(spaces) + movingString + "&nbsp;".repeat(distance - spaces - movingString.length) + "]"
+    spaces += step
+    if (spaces === 0 || (spaces + movingString.length) === distance) {
+      step = -step
+    }
+  }, 50)
+</script>
 
 ### A bit on me
 
