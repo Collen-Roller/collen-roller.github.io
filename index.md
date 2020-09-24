@@ -8,8 +8,8 @@ Hello, thanks for swinging by!
 <script type="text/javascript">
   const movingString = "Welcome To My Website"
   const distance = 10
-  let spaces = 0
-  let step = 5
+  let spaces = 6
+  let step = 1
   const animationElement = document.getElementById("animation")
   setInterval(() => {
     animationElement.innerHTML = "[" + "&nbsp;".repeat(spaces) + movingString + "&nbsp;".repeat(distance - spaces - movingString.length) + "]"
