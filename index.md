@@ -1,8 +1,8 @@
-Hello, if you're here, thanks for swinging by!
+Hello, thanks for swinging by!
 
 ### A bit on me
 
-If you're here it's likely to checkout my portfolio of things I've worked on. If you want to see my papers, head to the bottom, I normally update it when I can.
+If you're here it's likely to checkout my portfolio of things I've worked on. If you want to see my papers, head to the bottom, I normally update it when I can. 
 
 ### current research interests
 
