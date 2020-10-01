@@ -55,6 +55,12 @@ A IOS iPad television control application used by The Standard Athens hotels. I 
 
 I enjoy full-stack Swift / Python development so if you're looking for a developer, please feel free to reachout.
 
+### websites
+
+Here are some websites I've made
+
+[DGS-4 Development Operations Landing Page](https://693devops.com)
+
 ### tunes 
 
 In my spare time, sometime I like making music and posting it. I like making videos so more recently I've been posting covers of songs to YouTube. 
