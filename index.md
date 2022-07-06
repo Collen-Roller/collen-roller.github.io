@@ -57,9 +57,9 @@ I enjoy full-stack Swift / Python development so if you're looking for a develop
 
 ### websites
 
-Here are some websites I've made
+[Force Development Road Map Training Management System](https://client.fdrm.app) - Training Management System for the United States Air Force
 
-[DGS-4 Development Operations Landing Page](https://693devops.com)
+[Landing Page for DGS 4 DevOps](http://dgs4-devops.us-gov-west-1.elasticbeanstalk.com/)
 
 ### tunes 
 
@@ -83,9 +83,9 @@ If you're here for custom pedalboards, send me an email and please provide a lon
 - [Github](https://github.com/Collen-Roller)
 - [Twitter](https://twitter.com/C_Rollah)
 
-### papers
+### patents
 
-Updating
+Segment Vectors (Patent Pending) - [Link to USPTO](https://uspto.report/patent/app/20200184016)
 
 ### contact
 
