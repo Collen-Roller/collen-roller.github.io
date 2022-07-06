@@ -48,10 +48,9 @@ Flydenity is a callsign identification library to help match tail numbers or cal
 
 A simple way of generating a domain.yml file for the Rasa conversational AI framework
 
-#### anc control - iOS application developed to control multiple Direct TV boxes using a single iPad
-![Checkout the app](/docs/assets/anc.png)
+#### anc control - iOS iPad television control application used by The Standard Athens hotels. I developed the full-stack application and published it in mid-2020
 
-A IOS iPad television control application used by The Standard Athens hotels. I developed the full-stack application and published it in mid-2020
+![Checkout the app](/docs/assets/anc.png)
 
 #### shameless plug
 
