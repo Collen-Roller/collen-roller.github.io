@@ -34,9 +34,9 @@ If you're here it's likely to checkout my portfolio of things I've worked on. If
 
 I like to code - Moral of the story like most engineers - I love solving puzzles in my free time. I'm a full stack developer, that means I do everything from requirement gathering and design to development, transition, and sustainment. Here's my primary languages and tools I use.
 
-Languages: Python, Java, JS, C++, Bash
+Languages: Python, Java, Javascript, C++, Swift, Bash
 
-Tools: Docker, AWS, Solr, Mongo, Postgres, SQL, JIRA, Kubernetes, Sketch, Figma
+Tools: Docker, AWS / GovCloud, Git, Express, Postgres, Apache Solr, MongoDB, Keycloak, iOS, Android, Kubernetes, Atlassian Tool Suite, Sketch, Figma
 
 Here's some of the open projects I've created.
 
